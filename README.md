@@ -47,7 +47,7 @@
 * **importo minimo**: 1 eur
 * **importo consumatori**: 15x 25.000 eur ogni settimana; 10x 100.000 eur ogni mese; 1x 5M eur ogni anno
 * **importo esercenti**: 15x 5.000 eur ogni settimana; 10x 20.000 eur ogni mese; 1x 1M eur ogni anno
-* **scadenza rimborso**: ogni settimana _(giovedì)_, mese _(secondo giovedì del mese)_ o ogni anno
+* **scadenza rimborso**: ogni settimana _(giovedì)_, ogni mese _(secondo giovedì del mese)_ o ogni anno
 * **tipologie acquisti applicabili**: pagamenti con carte _(o app - NdA)_
 
 *per partecipare alla lotteria degli scontrini bisogna iscriversi al sito del [Governo](https://www.lotteriadegliscontrini.gov.it/portale/),
