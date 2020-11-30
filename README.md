@@ -60,4 +60,4 @@ dove sarà fornito un **codice lotteria** che andrà comunicato all'esercente*
 
 ----------------------------------
 
-_aggiornamento: 30-nov-2020 h 16:30_
+_aggiornamento: 30-nov-2020 h 21:30_
