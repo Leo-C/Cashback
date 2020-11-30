@@ -37,18 +37,27 @@
 
 * **da quando**: 1 gennaio 2021
 * **importo minimo**: 1 eur
+* **_biglietti virtuali_ per acquisto**: 1 _biglietto virtuale_ per 1 euro di spesa
 * **importo**: 7x 1.500 eur ogni settimana; 3x 30.000 eur ogni mese; 1x 1M eur ogni anno
 * **scadenza rimborso**: ogni settimana _(giovedì)_, mese _(secondo giovedì del mese)_ o ogni anno
 * **tipologie acquisti applicabili**: pagamenti contanti
+* **importo massimo applicabile**: 1.000 eur ad acquisto
 
 ## Lotteria scontrini - pagamenti elettronici
 
 * **da quando**: 1 gennaio 2021
 * **importo minimo**: 1 eur
+* **_biglietti virtuali_ per acquisto**: 1 _biglietto virtuale_ per 1 euro di spesa
 * **importo consumatori**: 15x 25.000 eur ogni settimana; 10x 100.000 eur ogni mese; 1x 5M eur ogni anno
 * **importo esercenti**: 15x 5.000 eur ogni settimana; 10x 20.000 eur ogni mese; 1x 1M eur ogni anno
 * **scadenza rimborso**: ogni settimana _(giovedì)_, ogni mese _(secondo giovedì del mese)_ o ogni anno
 * **tipologie acquisti applicabili**: pagamenti con carte _(o app - NdA)_
+* **importo massimo applicabile**: 1.000 eur ad acquisto
 
 *per partecipare alla lotteria degli scontrini bisogna iscriversi al sito del [Governo](https://www.lotteriadegliscontrini.gov.it/portale/),
 dove sarà fornito un **codice lotteria** che andrà comunicato all'esercente*
+
+
+----------------------------------
+
+_aggiornamento: 30-nov-2020 h 16:30_
