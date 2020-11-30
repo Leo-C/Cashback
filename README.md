@@ -12,7 +12,7 @@
 ## Cashback Natale 2020
 
 * **da quando**: 8/10 dic 2020
-* **quota**: ulteriore 10% _(aggiuntivo al Cashback 2021)_
+* **quota**: 10% _(aggiuntivo al Cashback 2021)_
 * **scadenza rimborso**: feb 2021
 * **transazioni minime**: 10 transazioni entro ??
 * **tipologie acquisti applicabili**: acquisti nei negozi fisici
