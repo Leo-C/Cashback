@@ -11,7 +11,7 @@
 
 ## Cashback Natale 2020
 
-* **da quando**: 8 dic 2020
+* **da quando**: 8 dic 2020 _(in pubblicazione dal MEF)_
 * **quota**: 10%
 * **scadenza rimborso**: entro feb 2021
 * **transazioni minime**: 10 transazioni entro 31 dicembre 2020
