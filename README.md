@@ -16,7 +16,7 @@
 * **scadenza rimborso**: feb 2021
 * **transazioni minime**: 10 transazioni entro ??
 * **tipologie acquisti applicabili**: acquisti nei negozi fisici
-* **importo massimo applicabile**: ??
+* **importo massimo applicabile**: 150 eur a transazione
 * **massimo rimborso**: 150 eur
 
 
@@ -60,4 +60,4 @@ dove sarà fornito un **codice lotteria** che andrà comunicato all'esercente*
 
 ----------------------------------
 
-_aggiornamento: 1-dic-2020 h 8:00_
+_aggiornamento: 1-dic-2020 h 15:00_
