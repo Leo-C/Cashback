@@ -54,10 +54,10 @@
 * **tipologie acquisti applicabili**: pagamenti con carte _(o app - NdA)_
 * **importo massimo applicabile**: 1.000 eur ad acquisto
 
-*per partecipare alla lotteria degli scontrini bisogna iscriversi al sito del [Governo](https://www.lotteriadegliscontrini.gov.it/portale/),
+*per partecipare alla lotteria degli scontrini bisogna essere maggiorenni ed iscriversi al sito del [Governo](https://www.lotteriadegliscontrini.gov.it/portale/),
 dove sarà fornito un **codice lotteria** che andrà comunicato all'esercente*
 
 
 ----------------------------------
 
-_aggiornamento: 30-nov-2020 h 21:30_
+_aggiornamento: 1-dic-2020 h 8:00_
