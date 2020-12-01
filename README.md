@@ -1,10 +1,10 @@
 ## Cashback 2021
 
-* **da quando**: 1 dic 2020
+* **da quando**: 1 gen 2021
 * **quota**: 10%
-* **scadenze rimborsi**: ogni 6 mesi _(a gen e lug)_
+* **scadenze rimborsi**: ogni 6 mesi _(entro 60 gg dal 1-lug o 31-dic)_
 * **transazioni minime**: 50 transazioni per semestre _(gen-giu e lug-dic)_
-* **tipologie acquisti applicabili**: ??
+* **tipologie acquisti applicabili**: acquisti di beni e servizi a soggetti fisici mediante carte e App convenzionati
 * **importo massimo applicabile**: 150 eur a transazione
 * **massimo rimborso**: 150 eur ogni semestre
 
@@ -12,10 +12,10 @@
 ## Cashback Natale 2020
 
 * **da quando**: 8 dic 2020
-* **quota**: 10% _(aggiuntivo al Cashback 2021)_
-* **scadenza rimborso**: fine feb 2021
-* **transazioni minime**: 10 transazioni entro 31 vdicembre 2020 (?)
-* **tipologie acquisti applicabili**: acquisti nei negozi fisici
+* **quota**: 10%
+* **scadenza rimborso**: entro feb 2021
+* **transazioni minime**: 10 transazioni entro 31 dicembre 2020
+* **tipologie acquisti applicabili**: acquisti di beni e servizi a soggetti fisici mediante carte e App convenzionati
 * **importo massimo applicabile**: 150 eur a transazione
 * **massimo rimborso**: 150 eur
 
@@ -26,9 +26,13 @@
 * **rimborso**: 1.500 eur ogni semestre per i maggiori 100.000 utilizzatori _(n. transazioni)_
 
 
-*per tutti i Cashback bisogna essere maggiorenni ed iscriversi sull'App IO per [Android](https://play.google.com/store/apps/details?id=it.pagopa.io.app&gl=IT) o [iPhone](https://apps.apple.com/it/app/io/id1501681835) (è necessario l'uso di [SPID](https://www.spid.gov.it/) per accedere)*
+*per tutti i Cashback bisogna essere maggiorenni ed iscriversi sull'[App IO](https://io.italia.it/) (è necessario l'uso di [SPID](https://www.spid.gov.it/) per accedere)*
 
-**NOTA**: *Le informazioni riportate sono state dedotte da fonti giornalistiche; ulteriori aggiornamenti saranno disponibili appena emesse le relative norme*
+**Riferimenti**:
+
+* [Decreto 24 novembre 2020, n. 156](https://www.gazzettaufficiale.it/eli/id/2020/11/28/20G00181/SG)
+* [Testo Unico Bancario (DL 1 set 1993 n. 385 e aggiornamenti)](https://www.bancaditalia.it/compiti/vigilanza/intermediari/Testo-Unico-Bancario.pdf)
+* [Decereto legislativo 27 gennaio 2010, n.  11](https://www.bancaditalia.it/dotAsset/f1207a16-f3da-46dd-a8e4-ea88ac73bb41.pdf)
 
 ----------------------------------
 
@@ -57,7 +61,8 @@
 *per partecipare alla lotteria degli scontrini bisogna essere maggiorenni ed iscriversi al sito del [Governo](https://www.lotteriadegliscontrini.gov.it/portale/),
 dove sarà fornito un **codice lotteria** che andrà comunicato all'esercente*
 
+**Riferimenti**: [Normativa di Riferimento](https://www.lotteriadegliscontrini.gov.it/portale/normativa-di-riferimento)
 
 ----------------------------------
 
-_aggiornamento: 1-dic-2020 h 16:00_
+_aggiornamento: 1-dic-2020 h 17:00_
