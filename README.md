@@ -11,10 +11,10 @@
 
 ## Cashback Natale 2020
 
-* **da quando**: 8/10 dic 2020
+* **da quando**: 8 dic 2020
 * **quota**: 10% _(aggiuntivo al Cashback 2021)_
-* **scadenza rimborso**: feb 2021
-* **transazioni minime**: 10 transazioni entro ??
+* **scadenza rimborso**: fine feb 2021
+* **transazioni minime**: 10 transazioni entro 31 vdicembre 2020 (?)
 * **tipologie acquisti applicabili**: acquisti nei negozi fisici
 * **importo massimo applicabile**: 150 eur a transazione
 * **massimo rimborso**: 150 eur
@@ -60,4 +60,4 @@ dove sarà fornito un **codice lotteria** che andrà comunicato all'esercente*
 
 ----------------------------------
 
-_aggiornamento: 1-dic-2020 h 15:00_
+_aggiornamento: 1-dic-2020 h 16:00_
