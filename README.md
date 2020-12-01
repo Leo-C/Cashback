@@ -2,7 +2,7 @@
 
 * **da quando**: 1 gen 2021
 * **quota**: 10%
-* **scadenze rimborsi**: ogni 6 mesi _(entro 60 gg dal 1-lug o 31-dic)_
+* **scadenze rimborsi**: ogni 6 mesi _(entro 60 gg dal 1-lug o 1-gen)_
 * **transazioni minime**: 50 transazioni per semestre _(gen-giu e lug-dic)_
 * **tipologie acquisti applicabili**: acquisti di beni e servizi a soggetti fisici mediante carte e App convenzionati
 * **importo massimo applicabile**: 150 eur a transazione
@@ -68,4 +68,4 @@ dove sarà fornito un **codice lotteria** che andrà comunicato all'esercente*
 
 ----------------------------------
 
-_aggiornamento: 1-dic-2020 h 18:00_
+_aggiornamento: 1-dic-2020 h 18:30_
