@@ -63,8 +63,8 @@ dove sarà fornito un **codice lotteria** che andrà comunicato all'esercente*
 
 **Riferimenti**:
 
-*[Guida Lotteria](https://www.agenziaentrate.gov.it/portale/documents/20143/233439/Guida_Lotteria_Scontrini03062020.pdf)
-*[Normativa di Riferimento](https://www.lotteriadegliscontrini.gov.it/portale/normativa-di-riferimento)
+* [Guida Lotteria](https://www.agenziaentrate.gov.it/portale/documents/20143/233439/Guida_Lotteria_Scontrini03062020.pdf)
+* [Normativa di Riferimento](https://www.lotteriadegliscontrini.gov.it/portale/normativa-di-riferimento)
 
 ----------------------------------
 
