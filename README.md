@@ -71,8 +71,11 @@ _(lista in continuo aggiornamento)_
 * **tipologie acquisti applicabili**: pagamenti con carte _(o app - NdA)_
 * **importo massimo applicabile**: 1.000 eur ad acquisto
 
-*per partecipare alla lotteria degli scontrini bisogna essere maggiorenni ed iscriversi al sito del [Governo](https://www.lotteriadegliscontrini.gov.it/portale/),
-dove sarà fornito un **codice lotteria** che andrà comunicato all'esercente*
+*per partecipare alla lotteria degli scontrini bisogna essere maggiorenni ed iscriversi
+al sito del [Governo](https://www.lotteriadegliscontrini.gov.it/portale/),
+dove sarà fornito un **codice lotteria** che andrà comunicato all'esercente.
+All'atto della generazione del codice lotteria, è possibile scaricare un'immagine _(un Barcode 2D - Code 128)_
+che è bene conservare (ad esempio salvandola sul cellulare o su App che memorizzano Carte Fedeltà)
 
 **Riferimenti**:
 
@@ -81,4 +84,4 @@ dove sarà fornito un **codice lotteria** che andrà comunicato all'esercente*
 
 ----------------------------------
 
-_aggiornamento: 2-dic-2020 h 8:30_
+_aggiornamento: 2-dic-2020 h 8:45_
