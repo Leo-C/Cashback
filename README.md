@@ -30,9 +30,9 @@
 dove vanno immessi l'IBAN e i metodi di pagamento per cui sarà applicato il cashback*
 
 
-Poiché il decreto del 24-nov-2020 indica che gli _issuer convenzionati_ (art. 1 lett. g) possono convenzionarsi
- con PagoPA per raccogliere le adesioni degli _aderenti_ in modi alternativi all'App IO,
-sono possibili diverse modalità per alcuni strumenti di pagamento indicati di seguito:
+Poiché il decreto del 24-nov-2020 indica che gli _issuer convenzionati_ (art. 1 lett. g) possono
+convenzionarsi con PagoPA per raccogliere le adesioni degli _aderenti_ con modi alternativi all'App IO,
+sono possibili diverse modalità di asdesione al cashback per alcuni strumenti di pagamento:
 
 * **Nexi**: attraverso l'[App Nexi Pay](https://www.nexi.it/privati/offerta/nexipay.html) permette l'inserimento dell'IBAN per applicare il cashback a tutte le carte gestite nel wallet
 * **Bancomat**: _il Bancomat viene rilasciato da una Banca, che conosce CF e IBAN, dunque la Banca potrebbe raccogliere l'adesione indipendentemente dall'App IO (NdA)_
@@ -84,4 +84,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 2-dic-2020 h 8:50_
+_aggiornamento: 2-dic-2020 h 9:00_
