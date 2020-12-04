@@ -26,8 +26,8 @@
 * **rimborso**: 1.500 eur ogni semestre per i maggiori 100.000 utilizzatori _(n. transazioni)_
 
 
-*per tutti i Cashback bisogna essere maggiorenni ed iscriversi sull'[App IO](https://io.italia.it/) (è necessario l'uso di [SPID](https://www.spid.gov.it/) per accedere),
-dove vanno immessi l'IBAN e i metodi di pagamento per cui sarà applicato il cashback*
+*per tutti i Cashback bisogna essere maggiorenni ed iscriversi sull'[App IO](https://io.italia.it/) (per accedere è necessario l'uso di [SPID](https://www.spid.gov.it/)):  
+nella sezione `portafoglio` vanno immesse le carte e le App che si useranno per i pagamneti tra i `Metodi di pagamento` e  l'IBAN per il rimborso tra i `Bonus e sconti`*
 
 
 Poiché il decreto del 24-nov-2020 indica che gli _issuer convenzionati_ (art. 1 lett. g) possono
@@ -84,4 +84,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 2-dic-2020 h 9:00_
+_aggiornamento: 4-dic-2020 h 18:20_
