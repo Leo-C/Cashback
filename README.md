@@ -32,7 +32,7 @@ nella sezione `portafoglio` vanno immesse le carte e le App che si useranno per 
 
 Poiché il decreto del 24-nov-2020 indica che gli _issuer convenzionati_ (art. 1 lett. g) possono
 convenzionarsi con PagoPA per raccogliere le adesioni degli _aderenti_ con modi alternativi all'App IO,
-sono possibili diverse modalità di asdesione al cashback per alcuni strumenti di pagamento:
+sono possibili diverse modalità di adesione al cashback per alcuni strumenti di pagamento:
 
 * **Nexi**: attraverso l'[App Nexi Pay](https://www.nexi.it/privati/offerta/nexipay.html) permette l'inserimento dell'IBAN per applicare il cashback a tutte le carte gestite nel wallet
 * **Bancomat**: _il Bancomat viene rilasciato da una Banca, che conosce CF e IBAN, dunque la Banca potrebbe raccogliere l'adesione indipendentemente dall'App IO (NdA)_
@@ -84,4 +84,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 5-dic-2020 h 18:40_
+_aggiornamento: 5-dic-2020 h 18:45_
