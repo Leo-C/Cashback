@@ -27,7 +27,7 @@
 
 
 *per tutti i Cashback bisogna essere maggiorenni ed iscriversi sull'[App IO](https://io.italia.it/) (per accedere è necessario l'uso di [SPID](https://www.spid.gov.it/)):  
-nella sezione `portafoglio` vanno immesse le carte e le App che si useranno per i pagamneti tra i `Metodi di pagamento` e  l'IBAN per il rimborso tra i `Bonus e sconti`*
+nella sezione `portafoglio` vanno immesse le carte e le App che si useranno per i pagamenti tra i `Metodi di pagamento` e  l'IBAN per il rimborso tra i `Bonus e sconti`*
 
 
 Poiché il decreto del 24-nov-2020 indica che gli _issuer convenzionati_ (art. 1 lett. g) possono
@@ -84,4 +84,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 5-dic-2020 h 18:30_
+_aggiornamento: 5-dic-2020 h 18:40_
