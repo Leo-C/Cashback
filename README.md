@@ -36,7 +36,7 @@ sono possibili diverse modalità di asdesione al cashback per alcuni strumenti d
 
 * **Nexi**: attraverso l'[App Nexi Pay](https://www.nexi.it/privati/offerta/nexipay.html) permette l'inserimento dell'IBAN per applicare il cashback a tutte le carte gestite nel wallet
 * **Bancomat**: _il Bancomat viene rilasciato da una Banca, che conosce CF e IBAN, dunque la Banca potrebbe raccogliere l'adesione indipendentemente dall'App IO (NdA)_
-* **Satispay**: _l'IBAN e il CF dell'aderente sono già registrati, dunque l'App potrebbe raccogliere l'adesione indipendentemente dall'App IO (NdA)_
+* **Satispay**: i dati necessari sono stati già forniti all'applicazione, quindi è sufficiente [confermare l'adesione nell'applicazione](https://support.satispay.com/it/articles/cashback-di-stato-how-to)
 
 _(lista in continuo aggiornamento)_
 
@@ -45,7 +45,7 @@ _(lista in continuo aggiornamento)_
 
 * [Decreto 24 novembre 2020, n. 156](https://www.gazzettaufficiale.it/eli/id/2020/11/28/20G00181/SG)
 * [Testo Unico Bancario (DL 1 set 1993 n. 385 e aggiornamenti)](https://www.bancaditalia.it/compiti/vigilanza/intermediari/Testo-Unico-Bancario.pdf)
-* [Decereto legislativo 27 gennaio 2010, n.  11](https://www.bancaditalia.it/dotAsset/f1207a16-f3da-46dd-a8e4-ea88ac73bb41.pdf)
+* [Decreto legislativo 27 gennaio 2010, n.  11](https://www.bancaditalia.it/dotAsset/f1207a16-f3da-46dd-a8e4-ea88ac73bb41.pdf)
 
 ----------------------------------
 
@@ -84,4 +84,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 4-dic-2020 h 18:20_
+_aggiornamento: 5-dic-2020 h 18:30_
