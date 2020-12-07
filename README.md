@@ -4,7 +4,7 @@
 * **quota**: 10%
 * **scadenze rimborsi**: ogni 6 mesi _(entro 60 gg dal 1-lug o 1-gen)_
 * **transazioni minime**: 50 transazioni per semestre _(gen-giu e lug-dic)_
-* **tipologie acquisti applicabili**: acquisti di beni e servizi a soggetti fisici in esercizi fisici mediante carte e App convenzionati
+* **tipologie acquisti applicabili**: acquisti di beni e servizi di soggetti fisici in esercizi fisici mediante carte e App convenzionati
 * **importo massimo applicabile**: 150 eur a transazione
 * **massimo rimborso**: 150 eur ogni semestre
 
@@ -15,7 +15,7 @@
 * **quota**: 10%
 * **scadenza rimborso**: entro feb 2021
 * **transazioni minime**: 10 transazioni entro 31 dicembre 2020
-* **tipologie acquisti applicabili**: acquisti di beni e servizi a soggetti fisici in esercizi fisici mediante carte e App convenzionati
+* **tipologie acquisti applicabili**: acquisti di beni e servizi di soggetti fisici in esercizi fisici mediante carte e App convenzionati
 * **importo massimo applicabile**: 150 eur a transazione
 * **massimo rimborso**: 150 eur
 
@@ -91,4 +91,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 7-dic-2020 h 8:30_
+_aggiornamento: 7-dic-2020 h 09:00_
