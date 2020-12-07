@@ -28,7 +28,7 @@
 
 ### Modalità
 
-* bisogna essere maggiorenni ed iscriversi sull'[App IO](https://io.italia.it/) (per accedere è necessario l'uso di [SPID](https://www.spid.gov.it/))
+* bisogna essere maggiorenni residenti in Italia ed iscriversi sull'[App IO](https://io.italia.it/) (per accedere è necessario l'uso di [SPID](https://www.spid.gov.it/))
 * nella sezione `portafoglio` in `Metodi di pagamento` vanno immesse le carte e le App che si useranno per i pagamenti:
   * **Carte di Credito**: dopo l'immissione, per verifica viene effettuata una transazione online di 0,02 eur (la Carta deve essere abilitata alle transazioni Internet, e potrebbe essere richiesto un codice di verifica)
   * **Nexi**: in alternativa l'[App Nexi Pay](https://www.nexi.it/privati/offerta/nexipay.html) permette l'inserimento dell'IBAN per applicare il cashback a tutte le carte gestite nel wallet
@@ -49,6 +49,7 @@
 **Riferimenti**:
 
 * [Italia Cashless](https://www.cashlessitalia.it/)
+* [Guida al Cashback](https://io.italia.it/cashback/guida/)
 * [Decreto 24 novembre 2020, n. 156](https://www.gazzettaufficiale.it/eli/id/2020/11/28/20G00181/SG)
 * [Testo Unico Bancario (DL 1 set 1993 n. 385 e aggiornamenti)](https://www.bancaditalia.it/compiti/vigilanza/intermediari/Testo-Unico-Bancario.pdf)
 * [Decreto legislativo 27 gennaio 2010, n.  11](https://www.bancaditalia.it/dotAsset/f1207a16-f3da-46dd-a8e4-ea88ac73bb41.pdf)
@@ -86,9 +87,10 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 **Riferimenti**:
 
+* [Italia Cashless](https://www.cashlessitalia.it/)
 * [Guida Lotteria](https://www.agenziaentrate.gov.it/portale/documents/20143/233439/Guida_Lotteria_Scontrini03062020.pdf)
 * [Normativa di Riferimento](https://www.lotteriadegliscontrini.gov.it/portale/normativa-di-riferimento)
 
 ----------------------------------
 
-_aggiornamento: 7-dic-2020 h 09:00_
+_aggiornamento: 7-dic-2020 h 09:30_
