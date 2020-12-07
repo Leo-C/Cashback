@@ -81,7 +81,7 @@
 al sito del [Governo](https://www.lotteriadegliscontrini.gov.it/portale/),
 dove sarà fornito un **codice lotteria** che andrà comunicato all'esercente.
 All'atto della generazione del codice lotteria, è possibile scaricare un'immagine _(un Barcode 2D - Code 128)_
-che è bene conservare (ad esempio salvandola sul cellulare o su App che memorizzano Carte Fedeltà)*
+che è bene conservare (ad esempio salvandola sul cellulare o su App che memorizzino Carte Fedeltà)*
 
 
 **Riferimenti**:
