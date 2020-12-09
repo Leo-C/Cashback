@@ -29,14 +29,14 @@
 ### Modalità
 
 * bisogna essere maggiorenni residenti in Italia ed iscriversi sull'[App IO](https://io.italia.it/) (per accedere è necessario l'uso di [SPID](https://www.spid.gov.it/))
-* nella sezione `portafoglio` in `Metodi di pagamento` vanno immesse le carte e le App che si useranno per i pagamenti:
+* nella sezione `portafoglio` premendo il pulsante in alto `AGGIUNGI` e poi `Metodo di pagamento` vanno immesse le carte e le App che si useranno per i pagamenti:
   * **Carte di Credito**: dopo l'immissione, per verifica viene effettuata una transazione online di 0,02 eur (la Carta deve essere abilitata alle transazioni Internet, e potrebbe essere richiesto un codice di verifica)
   * **Nexi**: in alternativa l'[App Nexi Pay](https://www.nexi.it/privati/offerta/nexipay.html) permette l'inserimento dell'IBAN per applicare il cashback a tutte le carte gestite nel wallet
   * **Bancomat**: scelta la Banca di emissione, vengono proposte le carte emesse a proprio nome. **NOTA**: se la Carta Bancomat è abilitata per più circuiti (VISA, Maestro, ecc.), va immessa anche come Carta di Credito
   * **Satispay**: i dati necessari sono stati già forniti all'applicazione, quindi è sufficiente [confermare l'adesione nell'applicazione](https://support.satispay.com/it/articles/cashback-di-stato-how-to)
   * **Hype**: è possibile attivare il Cashback dall'App come indicato sul [sito di Hype](https://blog.hype.it/cashback-di-stato-con-hype/)
   * _(lista in continuo aggiornamento)_
-* nella sezione `portafoglio` in `Cashback`:
+* nella sezione `portafoglio` sotto la categoria `Bonus e sconti` appare `Cashback` dove:
   * va immesso l'IBAN per il rimborso
   * va confermata l'adesione al Cashback
   * vanno confermate le Carte associate al Cashback (la validità sarà dal giorno successivo alla conferma)
@@ -93,4 +93,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 7-dic-2020 h 09:30_
+_aggiornamento: 9-dic-2020 h 07:30_
