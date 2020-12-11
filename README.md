@@ -28,15 +28,20 @@
 
 ### Modalità
 
-* bisogna essere maggiorenni residenti in Italia ed iscriversi sull'[App IO](https://io.italia.it/) (per accedere è necessario l'uso di [SPID](https://www.spid.gov.it/))
+* bisogna essere maggiorenni residenti in Italia ed iscriversi sull'[App IO](https://io.italia.it/) (per accedere è necessario l'uso di [SPID](https://www.spid.gov.it/) o la [CIE](https://www.cartaidentita.interno.gov.it/))
 * nella sezione `portafoglio` premendo il pulsante in alto `AGGIUNGI` e poi `Metodo di pagamento` vanno immesse le carte e le App che si useranno per i pagamenti:
   * **Carte di Credito**: dopo l'immissione, per verifica viene effettuata una transazione online di 0,02 eur (la Carta deve essere abilitata alle transazioni Internet, e potrebbe essere richiesto un codice di verifica)
   * **Nexi**: in alternativa l'[App Nexi Pay](https://www.nexi.it/privati/offerta/nexipay.html) permette l'inserimento dell'IBAN per applicare il cashback a tutte le carte gestite nel wallet
-  * **Bancomat**: scelta la Banca di emissione, vengono proposte le carte emesse a proprio nome. **NOTA**: se la Carta Bancomat è abilitata per più circuiti (VISA, Maestro, ecc.), va immessa anche come Carta di Credito
+  * **Carta Bancomat**: scelta la Banca di emissione, vengono proposte le carte emesse a proprio nome. **NOTA**: se la Carta Bancomat è abilitata per più circuiti (VISA, Maestro, ecc.), va immessa anche come Carta di Credito
+  * **Bancomat Pay**: è possibile registrare i pagamenti effettuati col circuito online di [Bancomat Pay](https://bancomat.it/it/bancomat/bancomat-pay) sull'App stessa
   * **Satispay**: i dati necessari sono stati già forniti all'applicazione, quindi è sufficiente [confermare l'adesione nell'applicazione](https://support.satispay.com/it/articles/cashback-di-stato-how-to)
   * **Hype**: è possibile attivare il Cashback dall'App come indicato sul [sito di Hype](https://blog.hype.it/cashback-di-stato-con-hype/)
+  * **Google Pay**: non ancora supportato, sarà probabilmente attivabile dall'[App](https://pay.google.com/intl/it_it/about/)
+  * **Apple Pay**: non ancora supportato, sarà probabilmente attivabile dall'[App](https://www.apple.com/it/apple-pay/)
+  * **Paypal**: non ancora supportato
+  * **Samsung Pay**: non ancora supportato
   * _(lista in continuo aggiornamento)_
-* nella sezione `portafoglio` sotto la categoria `Bonus e sconti` appare `Cashback` dove:
+* nella sezione `portafoglio` premendo il pulsante in alto `AGGIUNGI`, poi `Sconto, bonus e altri servizi` e poi `Cashback`:
   * va immesso l'IBAN per il rimborso
   * va confermata l'adesione al Cashback
   * vanno confermate le Carte associate al Cashback (la validità sarà dal giorno successivo alla conferma)
@@ -50,6 +55,7 @@
 
 * [Italia Cashless](https://www.cashlessitalia.it/)
 * [Guida al Cashback](https://io.italia.it/cashback/guida/)
+* [Metodi di Pagamento](https://io.italia.it/metodi-pagamento/)
 * [Decreto 24 novembre 2020, n. 156](https://www.gazzettaufficiale.it/eli/id/2020/11/28/20G00181/SG)
 * [Testo Unico Bancario (DL 1 set 1993 n. 385 e aggiornamenti)](https://www.bancaditalia.it/compiti/vigilanza/intermediari/Testo-Unico-Bancario.pdf)
 * [Decreto legislativo 27 gennaio 2010, n.  11](https://www.bancaditalia.it/dotAsset/f1207a16-f3da-46dd-a8e4-ea88ac73bb41.pdf)
@@ -93,4 +99,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 9-dic-2020 h 07:30_
+_aggiornamento: 11-dic-2020 h 08:45_
