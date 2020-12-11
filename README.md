@@ -99,4 +99,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 11-dic-2020 h 08:45_
+_aggiornamento: 11-dic-2020 h 09:00_
