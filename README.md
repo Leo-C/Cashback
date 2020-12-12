@@ -11,7 +11,7 @@
 
 ## Cashback Natale 2020
 
-* **da quando**: 8 dic 2020 _(si attende pubblicazione del MEF)_
+* **da quando**: 8 dic 2020
 * **quota**: 10%
 * **scadenza rimborso**: entro feb 2021
 * **transazioni minime**: 10 transazioni entro 31 dicembre 2020
@@ -57,6 +57,7 @@
 * [Guida al Cashback](https://io.italia.it/cashback/guida/)
 * [Metodi di Pagamento](https://io.italia.it/metodi-pagamento/)
 * [Decreto 24 novembre 2020, n. 156](https://www.gazzettaufficiale.it/eli/id/2020/11/28/20G00181/SG)
+* [Legge Finanziaria 2020](https://www.gazzettaufficiale.it/eli/id/2019/12/30/19G00165/sg) (legge 27 dicembre 2019, n. 160 - _commi 288-289_)
 * [Testo Unico Bancario (DL 1 set 1993 n. 385 e aggiornamenti)](https://www.bancaditalia.it/compiti/vigilanza/intermediari/Testo-Unico-Bancario.pdf)
 * [Decreto legislativo 27 gennaio 2010, n.  11](https://www.bancaditalia.it/dotAsset/f1207a16-f3da-46dd-a8e4-ea88ac73bb41.pdf)
 
@@ -99,4 +100,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 11-dic-2020 h 09:00_
+_aggiornamento: 12-dic-2020 h 12:30_
