@@ -34,6 +34,7 @@
   * **Nexi**: in alternativa l'[App Nexi Pay](https://www.nexi.it/privati/offerta/nexipay.html) permette l'inserimento dell'IBAN per applicare il cashback a tutte le carte gestite nel wallet
   * **Carta Bancomat**: scelta la Banca di emissione, vengono proposte le carte emesse a proprio nome. **NOTA**: se la Carta Bancomat è abilitata per più circuiti (VISA, Maestro, ecc.), va immessa anche come Carta di Credito
   * **Bancomat Pay**: è possibile registrare i pagamenti effettuati col circuito online di [Bancomat Pay](https://bancomat.it/it/bancomat/bancomat-pay) sull'App stessa
+  * **Postepay**: è possibile attivare il Cashback dalle App Bancoposta o Postepay, come indicato sul sito di [Poste Italiane](https://www.poste.it/piano-italia-cashless.html) 
   * **Satispay**: i dati necessari sono stati già forniti all'applicazione, quindi è sufficiente [confermare l'adesione nell'applicazione](https://support.satispay.com/it/articles/cashback-di-stato-how-to)
   * **Hype**: è possibile attivare il Cashback dall'App come indicato sul [sito di Hype](https://blog.hype.it/cashback-di-stato-con-hype/)
   * **Google Pay**: non ancora supportato, sarà probabilmente attivabile dall'[App](https://pay.google.com/intl/it_it/about/)
@@ -100,4 +101,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 12-dic-2020 h 12:30_
+_aggiornamento: 20-dic-2020 h 23:20_
