@@ -37,8 +37,8 @@
   * **Postepay**: è possibile attivare il Cashback dalle App Bancoposta o Postepay, come indicato sul sito di [Poste Italiane](https://www.poste.it/piano-italia-cashless.html) 
   * **Satispay**: i dati necessari sono stati già forniti all'applicazione, quindi è sufficiente [confermare l'adesione nell'applicazione](https://support.satispay.com/it/articles/cashback-di-stato-how-to)
   * **Hype**: è possibile attivare il Cashback dall'App come indicato sul [sito di Hype](https://blog.hype.it/cashback-di-stato-con-hype/)
-  * **Google Pay**: non ancora supportato, sarà probabilmente attivabile dall'[App](https://pay.google.com/intl/it_it/about/)
-  * **Apple Pay**: non ancora supportato, sarà probabilmente attivabile dall'[App](https://www.apple.com/it/apple-pay/)
+  * **Google Pay**: non ancora supportato, sarà attivabile dal 2021 dall'[App](https://pay.google.com/intl/it_it/about/)
+  * **Apple Pay**: non ancora supportato, sarà attivabile dal 2021 dall'[App](https://www.apple.com/it/apple-pay/)
   * **Paypal**: non ancora supportato
   * **Samsung Pay**: non ancora supportato
   * _(lista in continuo aggiornamento)_
@@ -101,4 +101,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 20-dic-2020 h 23:20_
+_aggiornamento: 30-dic-2020 h 7:45_
