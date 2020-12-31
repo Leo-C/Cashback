@@ -67,7 +67,7 @@
 
 ## Lotteria scontrini - pagamento contanti
 
-* **da quando**: 1 gennaio 2021
+* **da quando**: 1 febbraio 2021
 * **importo minimo**: 1 eur
 * **_biglietti virtuali_ per acquisto**: 1 _biglietto virtuale_ per 1 euro di spesa
 * **importo**: 7x 1.500 eur ogni settimana; 3x 30.000 eur ogni mese; 1x 1M eur ogni anno
@@ -77,7 +77,7 @@
 
 ## Lotteria scontrini - pagamenti elettronici
 
-* **da quando**: 1 gennaio 2021
+* **da quando**: 1 febbraio 2021
 * **importo minimo**: 1 eur
 * **_biglietti virtuali_ per acquisto**: 1 _biglietto virtuale_ per 1 euro di spesa
 * **importo consumatori**: 15x 25.000 eur ogni settimana; 10x 100.000 eur ogni mese; 1x 5M eur ogni anno
@@ -92,8 +92,6 @@ dove sarà fornito un **codice lotteria** che andrà comunicato all'esercente.
 All'atto della generazione del codice lotteria, è possibile scaricare un'immagine _(un Barcode 2D - Code 128)_
 che è bene conservare (ad esempio salvandola sul cellulare o su App che memorizzino Carte Fedeltà)*
 
-**NOTA: è possibile che l'avvio della lotteria degli scontrini slitti di 1 mese (ad inizio febbraio 2021) per l'adeguamento dei registratori di cassa**
-
 
 **Riferimenti**:
 
@@ -103,4 +101,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 30-dic-2020 h 8:30_
+_aggiornamento: 31-dic-2020 h 12:20_
