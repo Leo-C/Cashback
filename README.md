@@ -1,4 +1,4 @@
-## Cashback 2021
+## Cashback
 
 * **da quando**: 1 gen 2021
 * **quota**: 10%
@@ -46,10 +46,13 @@
   * va immesso l'IBAN per il rimborso
   * va confermata l'adesione al Cashback
   * vanno confermate le Carte associate al Cashback (la validità sarà dal giorno successivo alla conferma)
+* è possibile controllare l'avanzamento del Cashback nella sezione `portafoglio` sui banner blu (uno per ogni periodo); cliccando su tale banner:
+  * è possibile controllare i metodi di pagamento abilitati e i dettagli delle transazioni (premendo l'apposito pulsante)
+  * per il Super Cashback è riportata la propria posizione (per verificare se si è nei primi 100.000)
 
 *Poiché il decreto del 24-nov-2020 indica che gli* issuer *possono convenzionarsi con PagoPA
- per raccogliere le adesioni degli* aderenti *con modi alternativi all'App IO (art. 1 lett. d,g),
- sono possibili diverse modalità di adesione al cashback per alcuni strumenti di pagamento*
+per raccogliere le adesioni degli* aderenti *con modi alternativi all'App IO (art. 1 lett. d,g),
+sono possibili diverse modalità di adesione al cashback per alcuni strumenti di pagamento*
 
 
 **Riferimenti**:
@@ -101,4 +104,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 31-dic-2020 h 12:20_
+_aggiornamento: 10-gen-20210 h 10:10_
