@@ -48,7 +48,7 @@
   * vanno confermate le Carte associate al Cashback (la validità sarà dal giorno successivo alla conferma)
 * è possibile controllare l'avanzamento del Cashback nella sezione `portafoglio` sui banner blu (uno per ogni periodo); cliccando su tale banner:
   * è possibile controllare i metodi di pagamento abilitati e i dettagli delle transazioni (premendo l'apposito pulsante)
-  * per il Super Cashback è riportata la propria posizione (per verificare se si è nei primi 100.000)
+  * per il Super Cashback è riportata la propria posizione, e il numero di transazioni del 100.000° (per rientrare tra i vincitori)
 
 *Poiché il decreto del 24-nov-2020 indica che gli* issuer *possono convenzionarsi con PagoPA
 per raccogliere le adesioni degli* aderenti *con modi alternativi all'App IO (art. 1 lett. d,g),
@@ -104,4 +104,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 10-gen-20210 h 10:10_
+_aggiornamento: 19-gen-2021 h 16:10_
