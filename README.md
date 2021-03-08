@@ -89,11 +89,18 @@ sono possibili diverse modalità di adesione al cashback per alcuni strumenti di
 * **tipologie acquisti applicabili**: pagamenti con carte _(o app - NdA)_
 * **importo massimo applicabile**: 1.000 eur ad acquisto
 
-*per partecipare alla lotteria degli scontrini bisogna essere maggiorenni ed iscriversi
+Per partecipare alla lotteria degli scontrini bisogna essere maggiorenni ed iscriversi
 al sito del [Governo](https://www.lotteriadegliscontrini.gov.it/portale/),
 dove sarà fornito un **codice lotteria** che andrà comunicato all'esercente.
 All'atto della generazione del codice lotteria, è possibile scaricare un'immagine _(un Barcode 2D - Code 128)_
-che è bene conservare (ad esempio salvandola sul cellulare o su App che memorizzino Carte Fedeltà)*
+che è bene conservare (ad esempio salvandola sul cellulare o su App che memorizzino Carte Fedeltà)
+
+E' inoltre possibile accedere con [SPID](https://www.spid.gov.it/) all'
+[area riservata](https://servizi.lotteriadegliscontrini.gov.it/areariservata) del sito dove si potrà:
+
+* registrare i recapiti e-mail, telefono, PEC) con i quali si sarà avvertiti in caso di vincita
+* visualizzare gli scontrini validi per la partecipazione alla lotteria
+* disabilitare la generazione dei codici lotteria senza accedere
 
 
 **Riferimenti**:
@@ -104,4 +111,4 @@ che è bene conservare (ad esempio salvandola sul cellulare o su App che memoriz
 
 ----------------------------------
 
-_aggiornamento: 19-gen-2021 h 16:10_
+_aggiornamento: 08-mar-2021 h 12:30_
